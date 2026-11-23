@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.tif
+*.tiff
+outputs/
+runs/
+data/
+predictions/
+.venv/
+
